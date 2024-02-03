@@ -1,4 +1,4 @@
-## **Hello World ! 👋**
+## **Hello, World ! 👋**
 
 Hi everyone! I graduated in Computer Science from the University of São Paulo (USP) in Brazil. My journey goes beyond the diploma, fueled by a passionate interest in Artificial Intelligence, Machine Learning, and Deep Learning.
 
