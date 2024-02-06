@@ -73,11 +73,10 @@ I am also an active contributor to the open-source world, where I enjoy collabor
 
 <table>
   <td>
-      <img src="https://streak-stats.demolab.com?user=artghieri&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=artghieri&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </td>
   <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artghieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
   </td>
 </table>
-
 
